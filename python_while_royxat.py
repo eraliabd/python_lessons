@@ -4,6 +4,8 @@
 """
 #WHILE va RO'YXATLAR
 
+#Masala_sharti:
+Foydalanuvchidan buyurtma qabul qiluvchi dastur yozing. Mahsulotlar nomini birma-bir qabul qilib, yangi ro'yxatga joylang.
 
 mahsulotlar = []
 while True:
